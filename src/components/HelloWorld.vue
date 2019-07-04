@@ -26,7 +26,6 @@ export default {
         phone: this.username,
         password: this.password
       }
-      console.log(temp)
     }
   }
 }
